@@ -1,0 +1,35 @@
+From linux.vonscheidt at googlemail.com  Thu Aug 21 15:22:51 2008
+From: linux.vonscheidt at googlemail.com (Johannes von Scheidt)
+Date: Thu, 21 Aug 2008 15:22:51 +0200
+Subject: [Rockboxcenter-discussion] GUI-Development
+Message-ID: <200808211523.03263.vonscheidt@googlemail.com>
+
+Hey,
+
+here are some collected ideas for the gui-development.
+Comments and additions are welcome.
+
+- insert the great logo from N3X0NIC
+- divide between installation and data-transfer
+- the dialogs should be kindly and easy, so also beginners understand them
+- the status of the download should be displayed(http://forum.ubuntuusers.de/topic/python:-statusanzeige-fuer-download/?highlight=python+download)
+- the data-transfer similary to make a playlist in Amarok
+- create a wizard(setup-dialog) in which you can choose what you want to download and install
+- For the music-management: possiblity to sort and copy the music-file via tag or filename(amarok-like)
+- save the infos(tags, path) of the music-files in a database or a xml-file
+- access to the amarok-database
+- using lunars script to copy, convert and scale the pictures of amaroks database
+
+Best Regards,
+
+Johannes von Scheidt
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: This is a digitally signed message part.
+URL: <https://lists.berlios.de/pipermail/rockboxcenter-discussion/attachments/20080821/9298c49c/attachment.pgp>
+
